@@ -1,0 +1,7 @@
+name: 01 - Building Blocks
+on: push
+jobs: 
+  workflow_dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo"Hello Deepak"
