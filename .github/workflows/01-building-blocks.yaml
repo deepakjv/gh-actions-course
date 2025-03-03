@@ -4,4 +4,4 @@ jobs:
   workflow_dispatch:
     runs-on: ubuntu-latest
     steps:
-      - run: echo"Hello Deepak"
+      - run: echo "Hello Deepak"
